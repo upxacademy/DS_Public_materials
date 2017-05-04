@@ -1,2 +1,2 @@
-# DS_other_materials
-Random materials from DS tracks
+# DS_Public_materials
+Publicly available materials from DS tracks
